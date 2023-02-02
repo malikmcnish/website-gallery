@@ -1,2 +1,2 @@
 # website-gallery
- Created using HTML, CSS, JQUERY
+ Created using HTML, CSS, jQUERY
